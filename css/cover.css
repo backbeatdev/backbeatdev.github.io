@@ -161,3 +161,16 @@ body {
 .mastfoot {
   color: rgba(255, 255, 255, .5);
 }
+
+.socials-footer {
+  font-size: 1.2rem;
+}
+
+.socials-footer li {
+  display: inline-block;
+  padding: 0 10px;
+}
+
+.socials-footer i {
+  padding-right: 6px;
+}
